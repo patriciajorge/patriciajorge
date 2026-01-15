@@ -24,7 +24,6 @@
   <li>🤖 Desenvolvedora focada em <b>Automação (RPA)</b></li>
   <li>🐍 Python para scripts, bots e produtividade</li>
   <li>🔐 Estudante de <b>Cybersecurity</b></li>
-  <li>🐧 Usuária de Linux (terminal é casa)</li>
 </ul>
 
 <hr>
